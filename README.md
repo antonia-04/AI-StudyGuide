@@ -1,6 +1,6 @@
 # AI - Inteligență Artificială (Teorie)
 
-Util: [Playlist Machine Learning](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&si=NEn33cf1fizI187O))
+Util: [Playlist Machine Learning](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&si=NEn33cf1fizI187O)
 **UBB Informatica - Semestrul 4**
 
 Acest repository conține notițele mele pentru materia Inteligență Artificială, optimizate pentru Obsidian.
@@ -9,7 +9,7 @@ Acest repository conține notițele mele pentru materia Inteligență Artificial
 
 ### Varianta 1: Git (Pentru update-uri rapide)
 ```bash
-git clone [https://github.com/antonia-04/AI-StudyGuide.git](https://github.com/antonia-04/AI-StudyGuide.git)
+git clone https://github.com/antonia-04/AI-StudyGuide.git
 ````
 
 ### Varianta 2: ZIP (Simplu)
