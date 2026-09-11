@@ -1,4 +1,6 @@
 # AI - Inteligență Artificială (Teorie)
+
+Util: [https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&si=NEn33cf1fizI187O](Playlist Machine Learning)
 **UBB Informatica - Semestrul 4**
 
 Acest repository conține notițele mele pentru materia Inteligență Artificială, optimizate pentru Obsidian.
